@@ -1,0 +1,56 @@
+.see{
+    background-color: rgb(194, 194, 248);
+}
+#total{
+    background-color: grey;
+    width: 600px;
+    height: 90px;
+    border:1px solid black;
+    align-items: center;
+    text-align: center;
+    margin-left: 27%;
+    align-self: center;
+}
+#block{
+    background-color: black;
+    display: none;
+    color: white;
+    width:600px;
+    height: 738px;
+}
+.in,#aliceblue,#lime,#lavender,#crimson,#darkblue,#teal,#rebeccapurple,#ghostwhite,#aquamarine
+{
+        border:1px solid white;
+        width: 600px;
+        height: 90px;
+        align-items: center;
+        text-align: center;
+        scroll-behavior: smooth;
+     }
+#lime:hover{
+    background-color:lime;
+}
+#lavender:hover{
+    background-color:lavender;
+}
+#crimson:hover{
+    background-color:crimson;
+}
+#darkblue:hover{
+    background-color: darkblue;
+}
+#teal:hover{
+    background-color: teal;
+}
+#rebeccapurple:hover{
+    background-color: rebeccapurple;
+}
+#ghostwhite:hover{
+    background-color: ghostwhite;
+}
+#aquamarine:hover{
+    background-color: aqua;
+}
+#aliceblue:hover{
+    background-color: aliceblue;
+}
